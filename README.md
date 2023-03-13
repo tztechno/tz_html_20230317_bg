@@ -3,8 +3,8 @@ background image
 
 ## view
 index0.html<br>
-<img src="bg0.png" width="800"><br>
+<img src="bg0.png" width="800"><br><br>
 index1.html<br>
-<img src="bg1.png" width="800"><br>
+<img src="bg1.png" width="800"><br><br>
 index2.html<br>
 <img src="bg2.png" width="800">
